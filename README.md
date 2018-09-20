@@ -1,12 +1,11 @@
 
 # Portfolio_A
 
-
-#### a simple landing page portfolio with link animation to section
-
 <p align="center">
   <img width="460" height="300" src="imgs/preview.png">
 </p>
+
+#### a simple landing page portfolio with link animation to section
 
 
 ```
