@@ -7,6 +7,8 @@
 
 #### a simple landing page portfolio with link animation to section
 
+####project available at: <br>
+###<https://jupiterorbita.github.io/portfolio_A/>
 
 ```
 made with: HTML5, CSS3, JQuery
